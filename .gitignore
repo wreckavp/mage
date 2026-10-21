@@ -64,3 +64,8 @@ mage-bundle.zip
 
 # dev tools
 .devcontainer/**/*lock.json
+
+# Local generated card data and server config
+cards_raw.json
+Scripts/mage-scripts-backup/
+Mage.Server/src/main/java/mage/server/util/resources/config.xml
